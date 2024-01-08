@@ -1,0 +1,1 @@
+https://m.uber.com/go/pickup?drop%5B0%5D=%7B%22addressLine1%22%3A%22C.S.I%20St.%20Marys%20Church%22%2C%22addressLine2%22%3A%22Navalpur%2C%20Ranipet%2C%20Tamil%20Nadu%22%2C%22id%22%3A%22ChIJbZ_skZk1rTsREPntnw6zNIY%22%2C%22source%22%3A%22SEARCH%22%2C%22latitude%22%3A12.9354465%2C%22longitude%22%3A79.3268516%2C%22provider%22%3A%22google_places%22%7D&effect=
